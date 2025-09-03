@@ -9,7 +9,7 @@ It is designed as a learning project to better understand how Transformers work 
 - `03_encoder_layer.ipynb` – Encoder layer with attention and feed-forward network  
 - `04_decoder_layer.ipynb` – Decoder layer with self-attention, cross-attention, and feed-forward network
 
-<img width="1000" height="1800" alt="image" src="Images/transformer.png" />
+<img width="400" height="800" alt="image" src="Images/transformer.png" />
 
 ## Requirements
 Reference Environment:
